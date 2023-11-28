@@ -72,12 +72,6 @@ button:hover {
     width:95%;
 }
 .resultado{
-    /* border-radius: 28px; */
-    /* background-color: var(--color-gray); */
-    /* border: 2px solid white; */
-    /* width: 200px; */
-    /* padding-bottom: 30px; */
-    /* height: 200px; */
     font-size: 28px;
     text-align: right;
 }
